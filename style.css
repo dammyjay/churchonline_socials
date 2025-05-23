@@ -141,13 +141,22 @@ main {
     background: #cc0000;
 }
 
-.twitter {
+.telegram {
     background: #1da1f2;
     color: white;
 }
 
-.twitter:hover {
+.telegram:hover {
     background: #0d95e8;
+}
+
+.tiktok {
+    background: #000000;
+    color: white;
+}
+
+.tiktok:hover {
+    background: #000000;
 }
 
 .email {
